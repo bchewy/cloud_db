@@ -1,7 +1,7 @@
 hello!
 
-supabase and firebase are both react apps:
-`npm install` to install (in their own directories!)
+supabase and firebase are both react apps:<br>
+`npm install` to install (in their own directories!)<br>
 `npm start dev` to start them!
 
 
